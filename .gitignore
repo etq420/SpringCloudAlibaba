@@ -25,8 +25,6 @@
 *.ipr
 *.lck
 
-
-
 /spring-cloud-alibaba-common/target/
 /spring-cloud-alibaba-consumer/target/
 /spring-cloud-alibaba-gateway/target/
